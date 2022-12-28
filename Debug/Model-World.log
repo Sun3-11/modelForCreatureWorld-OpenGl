@@ -1,0 +1,40 @@
+﻿  Camera.cpp
+  DirectionalLight.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(21,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(22,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(24,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(25,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Light.cpp
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Model.cpp(29,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Model.cpp(108,13): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  OmniShadowMap.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\OmniShadowMap.cpp(35,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+  PointLight.cpp
+  Random.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Random.cpp(7,36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Shader.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(275,75): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(275,26): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(274,91): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(274,42): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  ShadowMap.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\ShadowMap.cpp(37,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+  Skybox.cpp
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(136,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(137,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(141,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(142,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(144,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(145,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(86): warning C4715: 'Window::Initialise': not all control paths return a value
+  Model-World.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Model-World.cpp(561,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Model-World.vcxproj -> C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Debug\Model-World.exe

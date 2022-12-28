@@ -1,0 +1,85 @@
+﻿  Camera.cpp
+  DirectionalLight.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(21,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(22,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(24,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\DirectionalLight.cpp(25,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Genome.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Genome.h(1,10): fatal error C1083: Cannot open include file: 'NeuralNet/Types.h': No such file or directory
+  Light.cpp
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Model.cpp(29,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Model.cpp(79,80): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Model.cpp(99,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Model.cpp(108,13): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  OmniShadowMap.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\OmniShadowMap.cpp(16,142): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\OmniShadowMap.cpp(35,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\OmniShadowMap.cpp(35,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'GLenum'
+  PointLight.cpp
+  Random.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Random.cpp(7,36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Shader.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(140,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(140,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(143,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(143,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(146,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(146,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(149,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(149,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(152,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(152,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(155,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(155,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(158,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(158,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(168,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(168,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(171,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(171,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(174,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(174,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(177,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(177,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(180,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(180,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(183,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(183,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(186,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(186,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(189,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(189,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(192,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(192,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(207,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(207,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(215,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(215,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(218,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(218,38): message : consider using '%zd' in the format string
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(275,75): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(275,26): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(274,91): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(274,42): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(290,63): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(291,74): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(309,63): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(310,74): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Shader.cpp(364,36): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  ShadowMap.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\ShadowMap.cpp(37,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\ShadowMap.cpp(37,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'GLenum'
+  Skybox.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Skybox.cpp(34,114): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(136,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(137,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(141,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(142,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(144,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sun\Documents\Visual Studio 2019\Projects\Model-World\Window.cpp(145,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
